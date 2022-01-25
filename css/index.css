@@ -1,5 +1,8 @@
+@import "../css/page.css";
+
 :root {
 --white: hsl(0, 0%, 100%); 
+--blue: #00A2FF;
 --black: #111111; 
 --body1-regular: 400 1rem/1.5rem Poppins; 
 --body1-bold: 700 1rem/1.5rem Poppins;  
@@ -10,4 +13,5 @@ body {
   background-color: var(--black);
   font: var(--body1-regular);
 }
+
 
